@@ -1,0 +1,573 @@
+[
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 13518,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "OVA",
+    "Anime"
+    ],
+    "version": 1,
+    "internalName": "Animasu",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Animasu.cs3",
+    "name": "Animasu"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.fun&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 13808,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "OVA",
+    "Anime"
+    ],
+    "version": 12,
+    "internalName": "AnimeIndoProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeIndoProvider.cs3",
+    "name": "AnimeIndoProvider"
+    },
+    {
+    "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 13414,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ]
+    ,
+    "tvTypes": [
+    "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "Dizikorea",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dizikorea.cs3",
+    "name": "Dizikorea"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 17009,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AsianDrama",
+    "Movie"
+    ],
+    "version": 9,
+    "internalName": "DramaidProvider",
+    "description": "Include: Oppadrama",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaidProvider.cs3",
+    "name": "DramaidProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=149.3.170.35&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 12985,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AsianDrama"
+    ],
+    "version": 4,
+    "internalName": "DramaSerial",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaSerial.cs3",
+    "name": "DramaSerial"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.xyz&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 12133,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "TvSeries",
+    "Movie",
+    "Cartoon",
+    "Anime"
+    ],
+    "version": 1,
+    "internalName": "Dubbindo",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dubbindo.cs3",
+    "name": "Dubbindo"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.duboku.tv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 12831,
+    "status": 1,
+    "language": "zh",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AsianDrama",
+    "TvSeries",
+    "Movie"
+    ],
+    "version": 1,
+    "internalName": "DubokuProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DubokuProvider.cs3",
+    "name": "DubokuProvider"
+    },
+    {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 11129,
+    "status": 1,
+    "authors": [
+    "Bnyro"
+    ],
+    "tvTypes": [
+    "TvSeries",
+    "Movie"
+    ],
+    "version": 1,
+    "internalName": "FilmPalast",
+    "description": "German Filmpalast provider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/FilmPalast.cs3",
+    "name": "FilmPalast"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=gomov.bio&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 25216,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AsianDrama",
+    "TvSeries",
+    "Movie"
+    ],
+    "version": 8,
+    "internalName": "Gomov",
+    "description": "Includes: DutaMovie, Ngefilm, Nodrakorid",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomov.cs3",
+    "name": "Gomov"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=gomunime.is&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 14773,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 6,
+    "internalName": "Gomunimeis",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomunimeis.cs3",
+    "name": "Gomunimeis"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=185.231.223.76&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 17997,
+    "status": 0,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 3,
+    "internalName": "Hentaiheaven",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Hentaiheaven.cs3",
+    "name": "Hentaiheaven"
+    },
+    {
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://idlixian.com&size=16",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 17414,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "TvSeries",
+    "Movie",
+    "Anime",
+    "AsianDrama"
+    ],
+    "version": 12,
+    "internalName": "IdlixProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/IdlixProvider.cs3",
+    "name": "IdlixProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.i-moviehd.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 13086,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "TvSeries",
+    "Movie"
+    ],
+    "version": 1,
+    "internalName": "IMoviehd",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/IMoviehd.cs3",
+    "name": "IMoviehd"
+    },
+    {
+    "tvTypes": [
+    "AsianDrama",
+    "TvSeries",
+    "Anime",
+    "Movie"
+    ],
+    "version": 4,
+    "internalName": "KisskhProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KisskhProvider.cs3",
+    "name": "KisskhProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 16506,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 14,
+    "internalName": "KuramanimeProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuramanimeProvider.cs3",
+    "name": "KuramanimeProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=45.12.2.2&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 25246,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 14,
+    "internalName": "KuronimeProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuronimeProvider.cs3",
+    "name": "KuronimeProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=lk21official.org&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 16365,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AsianDrama",
+    "TvSeries",
+    "Movie"
+    ],
+    "version": 15,
+    "internalName": "LayarKacaProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/LayarKacaProvider.cs3",
+    "name": "LayarKacaProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 33345,
+    "status": 0,
+    "language": "en",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AsianDrama",
+    "Anime",
+    "TvSeries",
+    "Movie"
+    ],
+    "version": 26,
+    "internalName": "Loklok",
+    "description": "#2 best extension based on Loklok API",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Loklok.cs3",
+    "name": "Loklok"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=minioppai.org&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 20196,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Sora"
+    ],
+    "tvTypes": [
+    "TvSeries",
+    "Movie"
+    ],
+    "version": 39,
+    "internalName": "Movierulzhd",
+    "description": "Include: Hdmovie2",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
+    "name": "Movierulzhd"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=146.19.24.137&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 15932,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AsianDrama",
+    "TvSeries",
+    "Movie"
+    ],
+    "version": 2,
+    "internalName": "MultiplexProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/MultiplexProvider.cs3",
+    "name": "MultiplexProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 22191,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Sora"
+    ],
+    "tvTypes": [
+    "NSFW"
+    ],
+    "version": 5,
+    "internalName": "Nekopoi",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nekopoi.cs3",
+    "name": "Nekopoi"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=neonime.watch&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 14570,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "Movie",
+    "OVA"
+    ],
+    "version": 7,
+    "internalName": "NeonimeProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/NeonimeProvider.cs3",
+    "name": "NeonimeProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 17937,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 3,
+    "internalName": "Nimegami",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nimegami.cs3",
+    "name": "Nimegami"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=nontonanimeid.site&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 18058,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 16,
+    "internalName": "NontonAnimeIDProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/NontonAnimeIDProvider.cs3",
+    "name": "NontonAnimeIDProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=123tv.live&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 16279,
+    "status": 1,
+    "language": "en",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "Live"
+    ],
+    "version": 3,
+    "internalName": "OnetwothreeTv",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OnetwothreeTv.cs3",
+    "name": "OnetwothreeTv"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=oploverz.care&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 16039,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 21,
+    "internalName": "OploverzProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OploverzProvider.cs3",
+    "name": "OploverzProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 20050,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 5,
+    "internalName": "PhimmoichillProvider",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/PhimmoichillProvider.cs3",
+    "name": "PhimmoichillProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=104.237.198.194&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 26521,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AsianDrama",
+    "Anime",
+    "TvSeries",
+    "Movie"
+    ],
+    "version": 7,
+    "internalName": "RebahinProvider",
+    "description": "Includes: Cgvindo, Kitanonton",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/RebahinProvider.cs3",
+    "name": "RebahinProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://samehadaku.world&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 17278,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "Hexated"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "OVA",
+    "Anime"
+    ],
+    "version": 13,
+    "internalName": "Samehadaku",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Samehadaku.cs3",
+    "name": "Samehadaku"
+    }
+]
+    
